@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"br.com.conversormoedas","l":"ConversorMoedas"},{"p":"br.com.conversormoedas","l":"Funcao"},{"p":"br.com.conversormoedas","l":"Main"}];updateSearchResults();
